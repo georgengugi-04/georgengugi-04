@@ -19,27 +19,18 @@
 
 ## 👋 About Me
 
-```ts
-const george = {
-  alias: "Koshe.exe",
-  location: "Nairobi, Kenya",
-  role: "Full-Stack Developer, UI/UX & Graphic Designer",
-  education: "BSc Information Technology, KCA University (Final Year)",
-  stack: [
-    "React", "Next.js", "React Native / Expo", "Flutter",
-    "Node.js", "Express", "Prisma", "MySQL",
-    "TypeScript", "Tailwind CSS"
-  ],
-  currentlyBuilding: [
-    "GreenTrack — farm-to-table crop traceability platform (JKUAT x JHUB Africa)",
-    "E-ArtGalla — art marketplace + Kenya-focused local events app",
-    "Flourish Haven Initiative — mental health & peacebuilding org website"
-  ],
-  creativeBrand: "Eartgalla — digital art, illustration, and playing card design",
-  lookingFor: "Software development & design internships / industrial attachment",
-  passion: "Building software and design that genuinely helps people."
-};
-```
+I'm a full-stack developer and UI/UX designer based in Nairobi, Kenya — online as **Koshe.exe**. I'm in my final year of a BSc in Information Technology at KCA University, and I build products end-to-end: React, Next.js, and Flutter on the front end, Node.js and Express on the back. Outside of client work I run **Eartgalla**, my personal brand for digital art, illustration, and playing card design.
+
+Right now I'm building **GreenTrack**, **E-ArtGalla**, and the **Flourish Haven Initiative** website — and I'm open to software development or design internships and industrial attachment.
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Location-Nairobi%2C%20Kenya-00FF41?style=for-the-badge&labelColor=000000&logo=googlemaps&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/Education-BSc%20IT%2C%20KCA%20University-00FF41?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Role-Full--Stack%20Dev%2C%20UI%2FUX%20Design-00FF41?style=for-the-badge&labelColor=000000" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Internships%20%26%20Attachment-00FF41?style=for-the-badge&labelColor=00FF41" />
+</p>
 
 ---
 
