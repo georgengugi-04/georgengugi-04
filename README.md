@@ -1,6 +1,6 @@
 <!-- Wave header, dark-to-matrix-green gradient -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0D1117,100:00FF41&text=georgengugi-04&fontSize=48&fontColor=00FF41&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20UI%2FUX%20%26%20Graphic%20Designer&descAlignY=58&descColor=B7FFCB"/>
+  <img src="koshe.jpg"/>
 </p>
 
 <!-- Terminal-style typing sequence -->
