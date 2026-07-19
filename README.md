@@ -1,45 +1,54 @@
 <!-- Modern GitHub Hero -->
 
+<!-- Premium Wave Header: Deep Forest to Emerald Gradient -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=gradient&customColorList=12,20,24,30&text=George%20Ngugi&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20•%20UI/UX%20Designer%20•%20Open%20to%20Internships&descAlignY=58&descColor=C9D1D9"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:050A08,100:163D2D&text=George%20Ngugi&fontSize=55&fontColor=B6FF7A&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%26%20UI%2FUX%20Designer&descAlignY=60&descColor=4ADE80&descSize=20"/>
 </p>
 
+<!-- Terminal-Style Typing Sequence -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=1200&color=58A6FF&center=true&vCenter=true&width=900&lines=console.log(%22Hello+World!%22);Building+Modern+Web+Applications;React+%7C+Next.js+%7C+Flutter;Full-Stack+Developer;UI%2FUX+Designer;Open+to+Internships+%26+Industrial+Attachment"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=1000&color=4ADE80&background=050A08&center=true&vCenter=true&width=850&lines=%24+whoami;%3E+george_ngugi+~+%22Koshe.exe%22;%24+status+--check;%3E+Final-Year+BSc+IT+%40+KCA+University;%3E+Building+GreenTrack+%2C+E-ArtGalla+%26+Flourish+Haven;%3E+Open+to+Internships+%26+Industrial+Attachment_" />
 </p>
 
 <p align="center">
   <a href="https://github.com/georgengugi-04">
-    <img src="https://img.shields.io/github/followers/georgengugi-04?label=Followers&style=for-the-badge&color=238636&labelColor=161B22"/>
+    <img src="https://img.shields.io/github/followers/georgengugi-04?label=Followers&style=for-the-badge&color=B6FF7A&labelColor=0D1F17&logo=github" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=georgengugi-04&style=for-the-badge&color=1F6FEB&label=Profile+Views&labelColor=161B22"/>
+  <img src="https://komarev.com/ghpvc/?username=georgengugi-04&style=for-the-badge&color=4ADE80&label=Profile+Views&labelColor=0D1F17" />
 </p>
 
 ---
 
-# 👋 About Me
+## 👨‍💻 About Me
 
-I'm **George Ngugi**, a passionate **Full-Stack Software Developer** and **UI/UX Designer** focused on building digital products that solve real-world problems.
+> *"Code is not just about solving problems — it's about crafting premium, intuitive experiences that genuinely help people."*
 
-My work combines clean, scalable code with thoughtful design to create applications that are both functional and enjoyable to use. I enjoy working across the entire development process—from designing intuitive user interfaces to developing secure backend systems and deploying production-ready applications.
+<p align="center">
+  <img src="https://img.shields.io/badge/📍_Location-Nairobi,_Kenya-4ADE80?style=flat-square&labelColor=0D1F17" />
+  <img src="https://img.shields.io/badge/🎓_Education-BSc_IT,_KCA_University-B6FF7A?style=flat-square&labelColor=0D1F17" />
+  <img src="https://img.shields.io/badge/🎯_Status-Open_to_Internships-2ECC71?style=flat-square&labelColor=0D1F17" />
+  <img src="https://img.shields.io/badge/🎨_Creative_Eartgalla-Digital_Art_%26_Design-4ADE80?style=flat-square&labelColor=0D1F17" />
+</p>
 
-### 🚀 Currently Building
+<br/>
 
-- 🌱 **GreenTrack** — Farm-to-table crop traceability platform in collaboration with **JKUAT** and **JHUB Africa**.
-- 🎨 **E-ArtGalla** — Digital art marketplace with local events discovery and M-Pesa integration.
-- 🌍 **Flourish Haven Initiative** — Website supporting mental health, counselling, and community wellness.
-
-### 💡 My Focus
-
-- ⚛️ Modern Frontend Development (React & Next.js)
-- 📱 Cross-platform Mobile Apps (Flutter)
-- 🖥️ Backend Development (Node.js, Express & Prisma)
-- 🎨 UI/UX Design & Interactive Experiences
-- ☁️ Building scalable and user-focused software
-
-> *"Great software isn't just written—it is designed with people in mind."*
-
----
+```typescript
+const koshe = {
+  alias: "Koshe.exe",
+  role: "Full-Stack Developer • UI/UX • Graphic Designer",
+  passion: "Building software and design that genuinely helps people.",
+  
+  stack: [
+    "React", "Next.js", "React Native / Expo", "Flutter",
+    "Node.js", "Express", "Prisma", "MySQL", "TypeScript", "Tailwind CSS"
+  ],
+  
+  currentlyBuilding: [
+    "🌱 GreenTrack — Farm-to-table crop traceability (JKUAT x JHUB Africa)",
+    "🎨 E-ArtGalla — Art marketplace + Kenya-focused local events app",
+    "🌍 Flourish Haven — Mental health & peacebuilding organization website"
+  ]
+};
 
 ## ⚡ Tech Stack
 
