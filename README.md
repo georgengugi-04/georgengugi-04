@@ -5,7 +5,7 @@
 
 <!-- Terminal-style typing sequence -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2200&pause=1000&color=39FF14&background=0D1117&center=true&vCenter=true&width=880&lines=%24+whoami;%3E+george_ngugi+~+%22Koshe.exe%22;%24+status+--check;%3E+Final-Year+BSc+IT+%40+KCA+University;%3E+Building+GreenTrack+%2C+E-ArtGalla+%26+Flourish+Haven;%3E+Open+to+Internships+%26+Industrial+Attachment_" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2200&pause=1000&color=39FF14&background=0D1117&center=true&vCenter=true&width=880&lines=%24+whoami;%3E+george_ngugi+~+%22Koshe.exe%22;%24+status+--check;%3E+Final-Year+BSc+IT+%40+KCA+University;%3E+Building+GreenTrack%2C+BeefTrace+%26+E-ArtGalla;%3E+Open+to+Internships+%26+Industrial+Attachment_" />
 </p>
 
 <p align="center">
@@ -19,7 +19,7 @@
 
 ## 👋 About Me
 
-I'm George Ngugi, a software developer and UI/UX designer based in Nairobi, Kenya. I'm in my final year of a BSc in Information Technology at KCA University, and I build full-stack web and mobile apps — React and Next.js on the front end, Node.js and Express on the back, and Flutter for mobile. I also run Eartgalla, my personal brand for digital art and illustration. Right now I'm building GreenTrack, E-ArtGalla, and the Flourish Haven Initiative website, and I'm open to software development and design internships or industrial attachment.
+I'm George Ngugi, a software developer and UI/UX designer based in Nairobi, Kenya. I'm in my final year of a BSc in Information Technology at KCA University, and I build full-stack web and mobile apps — React and Next.js on the front end, Node.js and Express on the back, and Flutter for mobile. I also run Eartgalla, my personal brand for digital art and illustration. Right now I'm building GreenTrack, BeefTrace, and E-ArtGalla with my team at JKUAT and JHUB Africa, alongside the Flourish Haven Initiative website, and I'm open to software development and design internships or industrial attachment.
 
 ---
 
@@ -35,10 +35,12 @@ I'm George Ngugi, a software developer and UI/UX designer based in Nairobi, Keny
 
 | Project | Description | Stack |
 |---|---|---|
-| 🌱 **GreenTrack** | Farm-to-table crop traceability platform built with a 5-person team at JKUAT, in collaboration with JHUB Africa | React, Node.js, Flutter (mobile) |
-| 🎨 **E-ArtGalla** | Art marketplace combined with a Kenya-focused local events discovery feature, with M-Pesa payments | React Native / Expo, Node.js, Prisma, MySQL |
+| 🌱 **GreenTrack** | Farm-to-table crop traceability platform built with a team at JKUAT, in collaboration with JHUB Africa | Flutter, Firebase |
+| 🐄 **BeefTrace** | Marketing site for a digital livestock traceability platform (birth-to-plate tracking, QR verification) — sibling project to GreenTrack | Next.js, TypeScript, Framer Motion |
+| 🎨 **E-ArtGalla** | African art gallery and marketplace, showcasing original artwork with an enquire-to-purchase cart flow | Next.js / React, PHP |
 | 🌍 **Flourish Haven Initiative** | Website for a mental health & peacebuilding organization — counselling, healing circles, storytelling programs | React, Node.js/Express |
 | 🎓 **Ikonex Academy SMS** | Full-stack Student Management System, built and deployed for a 72-hour technical assessment | Next.js, Node.js, Prisma, MySQL |
+| 🧭 **Meridian & Co** | Consulting/delivery studio website with animated interactive UI | React (Vite), Express, SQLite |
 
 ---
 
