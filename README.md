@@ -5,13 +5,14 @@
 
 <!-- Terminal-style typing sequence -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2200&pause=1000&color=39FF14&background=0D1117&center=true&vCenter=true&width=880&lines=%24+whoami;%3E+george_ngugi+~+%22Koshe.exe%22;%24+status+--check;%3E+Final-Year+BSc+IT+%40+KCA+University;%3E+Building+GreenTrack%2C+BeefTrace+%26+E-ArtGalla;%3E+Open+to+Internships+%26+Industrial+Attachment_" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2200&pause=1000&color=39FF14&background=0D1117&center=true&vCenter=true&width=880&lines=%24+whoami;%3E+george_ngugi+~+%22Koshe.exe%22;%24+status+--check;%3E+Final-Year+BSc+IT+%40+KCA+University;%3E+Building+GreenTrack+%26+E-ArtGalla;%3E+Building+products+%E2%80%A2+Designing+experiences+%E2%80%A2+Solving+real+problems" />
 </p>
 
 <p align="center">
   <a href="https://github.com/georgengugi-04">
     <img src="https://img.shields.io/github/followers/georgengugi-04?label=Followers&style=for-the-badge&color=39FF14&labelColor=0D1117" />
   </a>
+
   <img src="https://komarev.com/ghpvc/?username=georgengugi-04&style=for-the-badge&color=39FF14&label=Profile+Views" />
 </p>
 
@@ -19,7 +20,17 @@
 
 ## 👋 About Me
 
-I'm George Ngugi, a software developer and UI/UX designer based in Nairobi, Kenya. I'm in my final year of a BSc in Information Technology at KCA University, and I build full-stack web and mobile apps — React and Next.js on the front end, Node.js and Express on the back, and Flutter for mobile. I also run Eartgalla, my personal brand for digital art and illustration. Right now I'm building GreenTrack, BeefTrace, and E-ArtGalla with my team at JKUAT and JHUB Africa, alongside the Flourish Haven Initiative website, and I'm open to software development and design internships or industrial attachment.
+I'm **George Ngugi**, a software developer and UI/UX designer based in Nairobi, Kenya.
+
+I'm a final-year **BSc Information Technology** student at KCA University, focused on building full-stack web and mobile applications that combine strong engineering with thoughtful user experiences.
+
+My work spans **React, Next.js, Node.js, Express, Flutter, Firebase, TypeScript, and databases**, with a growing focus on backend architecture, APIs, cloud services, security, and product development.
+
+I'm currently building and contributing to projects including **GreenTrack and E-ArtGalla**, while also working on digital products and experiences with teams and organizations.
+
+I enjoy taking an idea from:
+
+**Problem → Architecture → Interface → Working Product**
 
 ---
 
@@ -35,70 +46,20 @@ I'm George Ngugi, a software developer and UI/UX designer based in Nairobi, Keny
 
 | Project | Description | Stack |
 |---|---|---|
-| 🌱 **GreenTrack** | Farm-to-table crop traceability platform built with a team at JKUAT, in collaboration with JHUB Africa | Flutter, Firebase |
-| 🐄 **BeefTrace** | Marketing site for a digital livestock traceability platform (birth-to-plate tracking, QR verification) — sibling project to GreenTrack | Next.js, TypeScript, Framer Motion |
-| 🎨 **E-ArtGalla** | African art gallery and marketplace, showcasing original artwork with an enquire-to-purchase cart flow | Next.js / React, PHP |
-| 🌍 **Flourish Haven Initiative** | Website for a mental health & peacebuilding organization — counselling, healing circles, storytelling programs | React, Node.js/Express |
-| 🎓 **Ikonex Academy SMS** | Full-stack Student Management System, built and deployed for a 72-hour technical assessment | Next.js, Node.js, Prisma, MySQL |
-| 🧭 **Meridian & Co** | Consulting/delivery studio website with animated interactive UI | React (Vite), Express, SQLite |
+| 🌱 **GreenTrack** | Climate-smart agriculture and farm-to-table platform combining environmental intelligence, crop tracking, harvest records, nutrition, QR traceability and market connectivity | Flutter, Firebase, Python |
+| 🎨 **E-ArtGalla** | African art platform showcasing original artwork with an enquire-to-purchase experience and interactive digital gallery experiences | Next.js, React |
+| 🌍 **Flourish Haven Initiative** | Digital platform for a mental health and peacebuilding organization supporting counselling, healing circles and storytelling programs | React, Node.js, Express |
+| 🎓 **Ikonex Academy SMS** | Full-stack Student Management System developed as a technical assessment and deployment project | Next.js, Node.js, Prisma, MySQL |
+| 🧭 **Meridian & Co** | Consulting and delivery studio website focused on interactive digital experiences | React, Vite, Express, SQLite |
 
 ---
 
-## 📊 GitHub Analytics
+## 🧠 What I Work On
 
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=georgengugi-04&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=39FF14&text_color=B6FFA8" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=georgengugi-04&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=39FF14&text_color=B6FFA8" />
-</p>
-
----
-
-## 🔥 Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=georgengugi-04&hide_border=true&background=0D1117&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideNums=B6FFA8&sideLabels=B6FFA8&dates=6B8F71&currStreakNum=FFFFFF" />
-</p>
-
----
-
-## 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=georgengugi-04&bg_color=0D1117&color=39FF14&line=39FF14&point=FFFFFF&area=true&area_color=39FF14&hide_border=true" />
-</p>
-
----
-
-## 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=georgengugi-04&theme=matrix&column=4&margin-w=15&margin-h=15" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/georgengugi-04/georgengugi-04/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-## 🌍 Connect With Me
-
-<p align="center">
-  <a href="https://github.com/georgengugi-04"><img src="https://skillicons.dev/icons?i=github&theme=dark" /></a>
-  <a href="REPLACE_WITH_YOUR_LINKEDIN_URL"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" /></a>
-  <a href="mailto:REPLACE_WITH_YOUR_EMAIL"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" /></a>
-</p>
-
-<p align="center">Portfolio: <a href="https://georgengugi.free.nf">georgengugi.free.nf</a></p>
-
----
-
-<p align="center"><i>"Code is not just about solving problems — it's about creating experiences."</i></p>
-
-<p align="center">⭐ Thanks for visiting my profile!</p>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=0:0D1117,100:39FF14"/>
+```text
+Frontend        → React • Next.js • Flutter • UI/UX
+Backend         → Node.js • Express • APIs • Authentication
+Databases       → MySQL • MongoDB • PostgreSQL/Supabase • Firebase
+Engineering     → Architecture • APIs • Cloud • Security • Testing
+Design          → Figma • UI/UX • Graphic Design • Interaction
+Product         → Problem discovery • Prototyping • Deployment
