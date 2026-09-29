@@ -1,103 +1,319 @@
-<!-- Wave header -->
+<!-- ========================================================= -->
+
+<!-- HERO -->
+
+<!-- ========================================================= -->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0D1117,100:39FF14&text=georgengugi-04&fontSize=48&fontColor=39FF14&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20UI%2FUX%20%26%20Graphic%20Designer&descAlignY=58&descColor=B6FFA8"/>
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0D1117,45:111827,100:39FF14&text=GEORGE%20NGUGI&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=FULL-STACK%20DEVELOPER%20%E2%80%A2%20UI%2FUX%20DESIGNER%20%E2%80%A2%20BUILDER&descAlignY=58&descColor=9EFF8A"
+    width="100%"
+  />
 </p>
 
-<!-- Terminal-style typing sequence -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2200&pause=1000&color=39FF14&background=0D1117&center=true&vCenter=true&width=880&lines=%24+whoami;%3E+george_ngugi+~+%22Koshe.exe%22;%24+status+--check;%3E+Final-Year+BSc+IT+%40+KCA+University;%3E+Building+GreenTrack+%26+E-ArtGalla;%3E+Open+to+Internships+%26+Industrial+Attachment_" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2400&pause=900&color=39FF14&background=0D1117&center=true&vCenter=true&width=900&lines=%24+whoami;%3E+george_ngugi+%7C+%22Koshe.exe%22;%24+focus+--current;%3E+Full-Stack+Web+%26+Mobile+Development;%24+building+--now;%3E+GreenTrack+%7C+E-ArtGalla+%7C+Digital+Products;%24+status+--check;%3E+Always+learning.+Always+shipping."
+  />
 </p>
 
 <p align="center">
   <a href="https://github.com/georgengugi-04">
-    <img src="https://img.shields.io/github/followers/georgengugi-04?label=Followers&style=for-the-badge&color=39FF14&labelColor=0D1117" />
+    <img src="https://img.shields.io/github/followers/georgengugi-04?style=for-the-badge&logo=github&label=FOLLOWERS&labelColor=0D1117&color=39FF14" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=georgengugi-04&style=for-the-badge&color=39FF14&label=Profile+Views" />
+  <a href="https://github.com/georgengugi-04?tab=repositories">
+    <img src="https://img.shields.io/badge/REPOSITORIES-39FF14?style=for-the-badge&logo=github&logoColor=0D1117&labelColor=0D1117" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=georgengugi-04&style=for-the-badge&color=39FF14&label=PROFILE+VIEWS" />
+</p>
+
+<br>
+
+<!-- ========================================================= -->
+
+<!-- INTRO -->
+
+<!-- ========================================================= -->
+
+## `> hello_world()`
+
+I'm **George Ngugi**, a final-year **BSc Information Technology** student at **KCA University**, Kenya.
+
+I build digital products across the stack — from **interfaces and experiences** to **APIs, databases and mobile applications**.
+
+My current focus is becoming a stronger software engineer by building real products, working with teams, participating in hackathons, and learning how software moves from an idea to something people can actually use.
+
+```ts
+const george = {
+  location: "Nairobi, Kenya",
+  role: "Software Developer & UI/UX Designer",
+  education: "BSc Information Technology @ KCA University",
+
+  currentlyBuilding: [
+    "GreenTrack",
+    "E-ArtGalla",
+    "Digital products & experiments"
+  ],
+
+  frontend: ["React", "Next.js", "TypeScript", "Tailwind CSS"],
+  backend: ["Node.js", "Express", "PHP"],
+  mobile: ["Flutter", "Dart", "React Native"],
+  databases: ["MySQL", "MongoDB", "Firebase"],
+  design: ["Figma", "UI/UX", "Graphic Design"],
+
+  mindset: "Build. Learn. Improve. Ship."
+};
+```
+
+---
+
+## `> what_i_build()`
+
+I enjoy working at the intersection of **engineering, design and real-world problems**.
+
+### 🌱 GreenTrack
+
+**Farm-to-table intelligence and traceability platform**
+
+Helping farmers capture farm activity, understand crop conditions, prepare harvests and connect agricultural information across the value chain.
+
+`Flutter` `Firebase` `APIs` `Weather Intelligence` `Agriculture`
+
+---
+
+### 🎨 E-ArtGalla
+
+**A digital home for African art**
+
+A platform built around discovering artists, showcasing artwork and creating a more accessible way for people to explore and enquire about African art.
+
+`Next.js` `React` `PHP` `UI/UX` `Creative Technology`
+
+---
+
+### 🎓 Ikonex Academy SMS
+
+**Full-stack school management system**
+
+A complete student management platform covering students, classes, assessments, rankings, authentication and role-based access.
+
+`Next.js` `TypeScript` `Node.js` `Prisma` `MySQL` `JWT`
+
+---
+
+### 🌍 Flourish Haven Initiative
+
+**Digital platform for a mental health & peacebuilding organization**
+
+A website designed to communicate counselling, healing circles, storytelling and community programs through a more accessible digital experience.
+
+`React` `Node.js` `Express` `UI/UX`
+
+---
+
+### 🧭 Meridian & Co
+
+**Interactive consulting and delivery studio website**
+
+A modern web experience combining business communication with motion-driven interface design.
+
+`React` `Vite` `Express` `SQLite`
+
+---
+
+## `> tech_stack --list`
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,html,css&theme=dark" />
+</p>
+
+### Backend & Data
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php,prisma,mysql,mongodb,firebase&theme=dark" />
+</p>
+
+### Mobile
+
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,reactnative&theme=dark" />
+</p>
+
+### Tools & Design
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,vercel&theme=dark" />
 </p>
 
 ---
 
-## 👋 About Me
+## `> development_philosophy()`
 
-I'm George Ngugi, a software developer and UI/UX designer based in Nairobi, Kenya. I'm in my final year of a BSc in Information Technology at KCA University, and I build full-stack web and mobile apps — React and Next.js on the front end, Node.js and Express on the back, and Flutter for mobile. I also run Eartgalla, my personal brand for digital art and illustration. Right now I'm building GreenTrack and E-ArtGalla with my team at JKUAT and JHUB Africa, alongside the Flourish Haven Initiative website, and I'm open to software development and design internships or industrial attachment.
+```text
+01  Understand the problem
+02  Design the experience
+03  Build the smallest useful version
+04  Test with real users
+05  Learn from what breaks
+06  Improve the product
+07  Ship again
+```
+
+> I don't just want to write code.
+>
+> I want to understand **why the product exists, who uses it, and how technology can make the experience better.**
 
 ---
 
-## ⚡ Tech Stack
+## `> currently_learning()`
+
+```text
+┌───────────────────────────────────────────────┐
+│                                               │
+│  ████████████████████░░░░  Full-Stack        │
+│  █████████████████░░░░░░░  Backend Systems    │
+│  ███████████████░░░░░░░░░  Cloud & DevOps     │
+│  ██████████████░░░░░░░░░░  System Design     │
+│  █████████████░░░░░░░░░░░  Cybersecurity     │
+│                                               │
+└───────────────────────────────────────────────┘
+```
+
+Currently deepening my understanding of:
+
+* Backend architecture
+* REST APIs & authentication
+* Databases & data modelling
+* Cloud deployment
+* System design
+* Security fundamentals
+* Production-ready application development
+
+---
+
+## `> github --stats`
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,reactnative,flutter,dart,typescript,javascript,nodejs,express,prisma,mysql,mongodb,tailwind,html,css,git,github,figma,vscode&perline=10&theme=dark" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=georgengugi-04&show_icons=true&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=39FF14&text_color=B6FFA8&ring_color=39FF14"
+    height="180"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=georgengugi-04&layout=compact&hide_border=true&bg_color=0D1117&title_color=39FF14&text_color=B6FFA8"
+    height="180"
+  />
 </p>
 
 ---
 
-## 🚀 Featured Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| 🌱 **GreenTrack** | Farm-to-table crop traceability platform built with a team at JKUAT, in collaboration with JHUB Africa | Flutter, Firebase |
-| 🎨 **E-ArtGalla** | African art gallery and marketplace, showcasing original artwork with an enquire-to-purchase cart flow | Next.js / React, PHP |
-| 🌍 **Flourish Haven Initiative** | Website for a mental health & peacebuilding organization — counselling, healing circles, storytelling programs | React, Node.js/Express |
-| 🎓 **Ikonex Academy SMS** | Full-stack Student Management System, built and deployed for a 72-hour technical assessment | Next.js, Node.js, Prisma, MySQL |
-| 🧭 **Meridian & Co** | Consulting/delivery studio website with animated interactive UI | React (Vite), Express, SQLite |
-
----
-
-## 📊 GitHub Analytics
+## `> contribution_activity()`
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=georgengugi-04&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=39FF14&text_color=B6FFA8" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=georgengugi-04&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=39FF14&text_color=B6FFA8" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=georgengugi-04&bg_color=0D1117&color=39FF14&line=39FF14&point=FFFFFF&area=true&area_color=39FF14&hide_border=true"
+    width="100%"
+  />
 </p>
 
 ---
 
-## 🔥 Streak
+## `> streak --show`
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=georgengugi-04&hide_border=true&background=0D1117&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideNums=B6FFA8&sideLabels=B6FFA8&dates=6B8F71&currStreakNum=FFFFFF" />
+  <img
+    src="https://streak-stats.demolab.com?user=georgengugi-04&hide_border=true&background=0D1117&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideNums=B6FFA8&sideLabels=B6FFA8&dates=6B8F71&currStreakNum=FFFFFF"
+  />
 </p>
 
 ---
 
-## 📈 Activity Graph
+## `> beyond_code()`
+
+I also work in **UI/UX design and graphic design**, which strongly influences how I approach development.
+
+For me, engineering isn't separated from design.
+
+```text
+                    ┌───────────────┐
+                    │     IDEA      │
+                    └───────┬───────┘
+                            ↓
+                    ┌───────────────┐
+                    │     DESIGN    │
+                    └───────┬───────┘
+                            ↓
+                    ┌───────────────┐
+                    │     BUILD     │
+                    └───────┬───────┘
+                            ↓
+                    ┌───────────────┐
+                    │     TEST      │
+                    └───────┬───────┘
+                            ↓
+                    ┌───────────────┐
+                    │     SHIP      │
+                    └───────────────┘
+```
+
+The goal is simple:
+
+**Make technology useful — and make the experience worth using.**
+
+---
+
+## `> connect --open`
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=georgengugi-04&bg_color=0D1117&color=39FF14&line=39FF14&point=FFFFFF&area=true&area_color=39FF14&hide_border=true" />
+
+  <a href="https://github.com/georgengugi-04">
+    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=39FF14" />
+  </a>
+
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=39FF14" />
+  </a>
+
+  <a href="mailto:YOUR_EMAIL@example.com">
+    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=39FF14" />
+  </a>
+
+  <a href="https://georgeportfoliowebsite.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=39FF14" />
+  </a>
+
 </p>
-
----
-
-## 🏆 Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=georgengugi-04&theme=matrix&column=4&margin-w=15&margin-h=15" />
+  <b>🌍 Nairobi, Kenya</b>
+  <br>
+  <sub>Open to software development opportunities, internships, industrial attachment and collaborative projects.</sub>
 </p>
 
 ---
-
-## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/georgengugi-04/georgengugi-04/output/github-contribution-grid-snake.svg" />
+
+```text
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│     BUILDING SOFTWARE. DESIGNING EXPERIENCES.               │
+│                                                              │
+│                  — GEORGE NGUGI —                            │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+```
+
 </p>
-
----
-
-## 🌍 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/georgengugi-04"><img src="https://skillicons.dev/icons?i=github&theme=dark" /></a>
-  <a href="REPLACE_WITH_YOUR_LINKEDIN_URL"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" /></a>
-  <a href="mailto:REPLACE_WITH_YOUR_EMAIL"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" /></a>
+  <i>Thanks for stopping by. Explore the repositories — there's more being built.</i>
 </p>
 
-<p align="center">Portfolio: <a href="https://georgengugi.free.nf">georgengugi.free.nf</a></p>
-
----
-
-<p align="center"><i>"Code is not just about solving problems — it's about creating experiences."</i></p>
-
-<p align="center">⭐ Thanks for visiting my profile!</p>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=0:0D1117,100:39FF14"/>
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=130&color=0:39FF14,100:0D1117"
+    width="100%"
+  />
+</p>
